@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Logica App</string>
+    <string name="great">Great!</string>
+    <string name="wrong">Wrong...</string>
+    <string name="TextView"></string>
+    <string name="TextView2"></string>
+    <string name="TextView3"></string>
+    <string name="TextView4"></string>
+    <string name="TextView5"></string>
+    <string name="TextView6"></string>
+</resources>
